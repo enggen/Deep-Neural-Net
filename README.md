@@ -1,6 +1,6 @@
 # Deep Learning
 
-Deep Learning projects 
-## Basic NN
-## CNN
-## RNN
+## Deep Learning Projects 
+### Basic NN
+### CNN
+### RNN
