@@ -1,7 +1,7 @@
 # Deep Learning
 
 ## Deep Learning Projects 
-### Basic NN
-### CNN
-### RNN
-### GANs 
+##### [Basic NN]()
+##### [CNN]()
+##### [RNN]()
+##### [GANs]()
